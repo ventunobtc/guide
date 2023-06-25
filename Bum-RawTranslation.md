@@ -1,81 +1,54 @@
 # BITCOIN USER MANUAL
 ## Il modo facile per iniziare
 
-manuale di utilizzo per chi incontra bitcoin per la prima volta. 
+Manuale di utilizzo per chi scopre Bitcoin per la prima volta. 
 
-### Benvenuto nel manuale utente di Bitcoin! (pagina 0)
+### Benvenuto nel manuale di Bitcoin! (pagina 0)
 
-Leggendo questo manuale, ora sei a un passo dall'imparare a diventare un utente sovrano di Bitcoin che abbraccia l'autocustodia in modo sicuro e responsabile. Il futuro della finanza e della tecnologia ti aspetta!
+Complimenti per il tuo approccio responsabile, leggendo questo manuale sei a un passo dall'imparare a diventare un utente sovrano di Bitcoin che abbraccia la self custody in modo sicuro e responsabile. Il futuro della finanza e della tecnologia ti aspetta!
 
 Pochi semplici passaggi sono tutto ciò che ti serve per intraprendere la tua avventura Bitcoin. Scopri come condurre transazioni e archiviare in sicurezza le tue risorse.
-
-Complimenti per il tuo approccio responsabile.
 
 È ora di intraprendere il tuo viaggio per esplorare l'entusiasmante mondo di Bitcoin!
 
 ### COME POSSO OTTENERE BITCOIN? (pagina2 e pagina 4)
 
-Ci sono molti modi per acquisire Bitcoin. Il metodo più popolare è tramite l'acquisto su cryptocur
+Ci sono molti modi per acquisire Bitcoin, il più comune è tramite exchange, dove puoi scambiare valute tradizionali (come dollari, euro, yen) con Bitcoin, ma puoi anche accettare Bitcoin come pagamento per beni o servizi, o ancora potresti chiedere al tuo datore di lavoro di pagarti lo stipendio o parte di esso in Bitcoin.
 
-scambi di valuta, dove puoi scambiare valute tradizionali (come dollari, euro, yen) con Bitcoin.
+Ricorda, anche se gli exchange sono un modo popolare e semplice per acquisire Bitcoin, non sono consigliati per la detenzione a lungo termine, in quanto ciò che tieni su un exchage non è completamente tuo, dal momento che non hai le chiavi private del wallet. Da qui il detto: "NOT YOUR KEYS, NOT YOUR COIN". In termini legali, infatti, non sei il proprietario dei beni depositati sull'exchange, ma hai solo il diritto di presentare un reclamo per il loro ritiro. Per garantire la sicurezza e il possesso dei tuoi Bitcoin puoi utilizzare un hardware wallet.
 
-Puoi anche accettare pagamenti per beni o servizi in Bitcoin.
+I salari variano, ma tutti guadagniamo denaro lavorando e il nostro lavoro si misura in ore. Se il tempo è denaro, ecco alcuni suggerimenti per te a seconda di quanto tempo/denaro investi in Bitcoin. Questi ti aiuteranno a capire quanto puoi usare Bitcoin sperimentando e in modo un po' ludico e quando è invece il momento di passare a qualcosa di più serio:
 
-Potresti chiedere al tuo datore di lavoro di pagare il tuo stipendio, o parte di esso, in bitcoin.
 
-Ricorda, anche se gli scambi sono un modo popolare e semplice per acquisire Bitcoin, non sono consigliati per l'archiviazione a lungo termine a causa di molti rischi. Le risorse archiviate su uno scambio non sono completamente tue, dal momento che non controlli le chiavi private del tuo portafoglio. Da qui il detto:
+<ul>
+<li>Un'ora di lavoro: sperimentare transazioni, testare varie app online </li>
 
-"NON LE TUE CHIAVI, NON IL TUO BITCOIN"
+<li>Una giornata di lavoro: decidere quale app installare sullo smartphone</li>
 
-In termini legali, non sei il proprietario di beni depositati in borsa, hai solo il diritto di presentare un reclamo per il loro ritiro.
+<li>Due settimane: decidere quale hardware wallet acquistare</li>
 
-Garantisci la sicurezza dei tuoi Bitcoin utilizzando il tuo portafoglio hardware per l'archiviazione.
+<li>un mese: acquisire un backup in metallo per creare un backup permanente della seed phrase, grazie alla quale puoi recuperare i fondi nel caso perdessi l'hardware wallet.</li>
+</ul>
 
- salari variano, ma tutti guadagniamo denaro lavorando e il nostro lavoro si misura in ore. Se il tempo è denaro, ecco alcuni suggerimenti per te a seconda di quanto tempo/denaro investi in Bitcoin. Questi ti aiuteranno a capire quanto puoi essere giocoso e quando è il momento di passare a qualcosa di più serio:
-
-un'ora di lavoro:
-
-sperimentare transazioni, testare varie app online,
-
-decidere quale app gratuita installare sul proprio smartphone,
-
-decidere quale portafoglio hardware acquistare,
-
-acquisire un backup in metallo per creare un backup permanente per la tua frase seme di recupero. Puoi quindi recuperare le tue risorse nel caso in cui perdessi il tuo portafoglio hardware.
-
-una giornata di lavoro: (manca un pezzo)
-
-due settimane: (manca un pezzo)
-
-un mese: (manca un pezzo)
-
-Bitcoin, come qualsiasi valuta tradizionale, è diviso in subunità. Ogni bitcoin è un enorme cento milioni di Satoshi (100.000.000 SATS). Ciò rende possibile acquistare bitcoin con una frazione di centesimo.
+Bitcoin, come qualsiasi valuta tradizionale, è diviso in subunità. Ogni bitcoin è costituto da cento milioni di Satoshi (100.000.000 SATS). Ciò rende possibile acquistare dei pezzi di bitcoin con una frazione di centesimo.
 
 ### Hardware Wallet Setup (pagina6)
 
-Sebbene i computer e gli smartphone moderni siano in grado di eseguire gli algoritmi crittografici necessari per utilizzare Bitcoin, sono intrinsecamente insicuri.
+Sebbene i computer e gli smartphone moderni siano in grado di eseguire tutti gli algoritmi di crittografia necessari per utilizzare Bitcoin, sono intrinsecamente insicuri.
 
-Questi dispositivi eseguono più attività, come scattare foto o navigare. In generale, più un dispositivo può fare, maggiori sono le sue vulnerabilità di sicurezza.
+Questi dispositivi eseguono svariati tipi attività, come scattare foto o navigare in internet. In generale, una regola è che più cose un dispositivo può fare, maggiori sono le sue vulnerabilità di sicurezza.
 
 PORTAFOGLIO HARDWARE
-
-Un portafoglio hardware è un dispositivo elettronico in grado di eseguire un numero limitato di attività: creare una password, calcolare un indirizzo Bitcoin o autenticare una transazione. Il rischio di soccombere a un tentativo di hacking viene mitigato riducendo la funzionalità del dispositivo.
-
+Un Hardware Wallet è un dispositivo elettronico in grado di eseguire un numero limitato di attività: creare una password, calcolare un indirizzo Bitcoin e firmare una transazione. Il rischio di un attacco hacker viene mitigato riducendo la funzionalità del dispositivo.
+Gli hardware wallet sono progettati con un display integrato. Un meccanismo di autenticazione su questo display aggiuntivo impedisce l'accesso non autorizzato e aumenta la sicurezza.
 
 GLOSSARIO BITCOIN: CHIAVE PRIVATA = una password molto forte
 
-
-DISPLAY AGGIUNTIVO
-I dispositivi hardware wallet sono progettati con un display integrato. La convalida su questo display aggiuntivo impedisce l'accesso non autorizzato e aumenta la sicurezza.
-
-
 CHIAVI PRIVATE
+Per proteggere i fondi, un hardware wallet isola le chiavi private in una memoria cifrata e offline e non invierà mai le tue chiavi private al computer a cui è connesso.
+In ordine alfabetico: Bitbox, Blockstream, ColdCard, Foundation, Ledger e Trezor sono i principali marchi di hardware wallet.
 
-Per proteggere le tue monete, un portafoglio hardware isola la tua chiave privata nella memoria crittografata offline e non invierà mai le tue chiavi private al computer a cui è connesso.
-In ordine alfabetico: Bitbox, Blockstream, ColdCard, Foundation, Ledger e Trezor sono i principali marchi di portafogli hardware.
-
-### CONFIGURAZIONE DEL PORTAFOGLIO HARDWARE - PREPARAZIONE (pagina8)
-
+### CONFIGURAZIONE DELL'HARDWARE WALLET - PREPARAZIONE (pagina8)
 
 Preparati a configurare il tuo portafoglio hardware: non dovrebbero essere necessari più di 30 minuti.
 
