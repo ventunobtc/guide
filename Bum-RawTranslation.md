@@ -38,190 +38,128 @@ Sebbene i computer e gli smartphone moderni siano in grado di eseguire tutti gli
 
 Questi dispositivi eseguono svariati tipi attività, come scattare foto o navigare in internet. In generale, una regola è che più cose un dispositivo può fare, maggiori sono le sue vulnerabilità di sicurezza.
 
-PORTAFOGLIO HARDWARE
+##### PORTAFOGLIO HARDWARE
 Un Hardware Wallet è un dispositivo elettronico in grado di eseguire un numero limitato di attività: creare una password, calcolare un indirizzo Bitcoin e firmare una transazione. Il rischio di un attacco hacker viene mitigato riducendo la funzionalità del dispositivo.
 Gli hardware wallet sono progettati con un display integrato. Un meccanismo di autenticazione su questo display aggiuntivo impedisce l'accesso non autorizzato e aumenta la sicurezza.
 
-GLOSSARIO BITCOIN: CHIAVE PRIVATA = una password molto forte
+GLOSSARIO BITCOIN: CHIAVE PRIVATA = numero casuale molto grande che garantisce l'accesso ai fondi. Una sorta di password molto molto forte
 
-CHIAVI PRIVATE
+##### CHIAVI PRIVATE
 Per proteggere i fondi, un hardware wallet isola le chiavi private in una memoria cifrata e offline e non invierà mai le tue chiavi private al computer a cui è connesso.
 In ordine alfabetico: Bitbox, Blockstream, ColdCard, Foundation, Ledger e Trezor sono i principali marchi di hardware wallet.
 
 ### CONFIGURAZIONE DELL'HARDWARE WALLET - PREPARAZIONE (pagina8)
 
-Preparati a configurare il tuo portafoglio hardware: non dovrebbero essere necessari più di 30 minuti.
-
-Prepara il tuo computer, un pezzo di carta e qualcosa con cui scrivere. Assicurati di avere accesso a Internet e un momento di pace e tranquillità.
-
-Assicurati che nessuno ti interrompa o ti osservi durante questa procedura: questo garantirà che il processo sia condotto in modo sicuro ed efficiente.
-
-La maggior parte delle operazioni in questa guida coinvolgono dati sensibili, consigliamo di eseguirle in un luogo privato.
-
-Ricorda, il tuo portafoglio hardware può essere facilmente ripristinato alle impostazioni di fabbrica e non perderai le tue monete finché avrai ancora la frase seme per il recupero. Puoi ripetere questo passaggio più volte se senti il ​​bisogno di esercitarti.
+Per configurare il tuo portafoglio hardware sono necessari menp di 30 minuti.
+Prepara il tuo computer, un pezzo di carta e qualcosa con cui scrivere. Assicurati di avere accesso a Internet e un momento di pace e tranquillità. Assicurati di essere da solo. Nessuno deve interromperti o osservarti durante la procedura: questo garantirà che il processo sia condotto in modo sicuro ed efficiente.
+La maggior parte delle operazioni in questa guida coinvolgono dati sensibili, consigliamo quindi di eseguirle in un luogo privato. Ricorda, il tuo hardware wallet può essere facilmente ripristinato alle impostazioni di fabbrica e non perderai i tuoi coins finché avrai ancora la seed phrase per il recupero. Puoi ripetere questo passaggio più volte se senti il ​​bisogno di esercitarti.
 
 ### CONFIGURAZIONE DEL PORTAFOGLIO HARDWARE - SCARICA L'APP (pagina 10)
 
-Configurazione del portafoglio hardware
+Generalmente la configurazione inizia con l'installazione del software sul computer, che consente un comodo utilizzo del wallet.
 
-Questo processo di solito inizia con l'installazione del software sul computer che consente un comodo utilizzo del portafoglio hardware.
+Qualsiasi hardwer wallet tu abbia scelto, segui attentamente le istruzioni visualizzate sullo schermo del computer e sul display del dispositivo. Aggiungi ulteriori misure di sicurezza (di solito un codice PIN) secondo le istruzioni del produttore. Quindi, annota le parole visualizzate sullo schermo del portafoglio hardware: questa è la seed phrase di recuper.
 
-Seguire attentamente le istruzioni visualizzate sullo schermo del computer e sul display del dispositivo. Aggiungi ulteriori misure di sicurezza (di solito un codice PIN) secondo le istruzioni del produttore. Quindi, annota le parole visualizzate sullo schermo del portafoglio hardware: questa è la tua frase seme di recupero segreto.
+##### Protezione della seedphrase
 
-Proteggi la tua frase seme di recupero
+La seedphrase è estremamente importante e indispensabile per il recupero degli asset in caso di smarrimento, danneggiamento o distruzione dell'hardware wallet, dovrebbe essere conservata in un luogo sicuro.
 
-La seedphrase è estremamente importante e indispensabile per il recupero degli asset in caso di smarrimento, danneggiamento o distruzione dell'hardware wallet. Dovrebbe essere conservato in un luogo sicuro.
+##### Trasferimento di risorse al tuo hardware wallet
 
-Trasferimento di risorse al tuo portafoglio hardware
-
-Dopo una corretta configurazione del portafoglio, puoi trasferire risorse bitcoin su di esso da un altro portafoglio o da uno scambio.
-
-Si consiglia di leggere il manuale di istruzioni fornito dal produttore, poiché il processo potrebbe differire a seconda del modello di portafoglio.
+Dopo una corretta configurazione del dispositivo, puoi trasferire i tuoi bitcoin su di esso da un altro wallet. Si consiglia di leggere il manuale di istruzioni fornito dal produttore, poiché il processo potrebbe differire a seconda del modello del  dispositivo scelto.
 
 ### CONFIGURAZIONE DEL PORTAFOGLIO HARDWARE - CHIAVE PRIVATA (pagina12)
- I portafogli hardware sono progettati in modo tale che solo il loro proprietario possa accedere alla chiave privata: questo aumenta la sicurezza.
+I portafogli hardware sono progettati in modo tale che solo il loro proprietario possa accedere alle chiavi private: questo aumenta la sicurezza. La seedphrase è solitamente una sequenza di 12 o 24 parole che codificano le chiavi private del tuo wallet. Ricorda, queste parole consentono l'accesso ai tuoi fondi! Una seedphrase può essere trasferita tra hardware wallet di diversi produttori, funziona con ogni dispositivo: è molto più importante del dispositivo che la contiene. 
 
-La frase seme di recupero è solitamente una sequenza di 12 o 24 parole che codificano la chiave privata del tuo portafoglio. Ricorda, queste parole consentono l'accesso alle tue risorse!
+Infatti...
+Hai perso il tuo portafoglio hardware? O ha smesso di funzionare? O forse vorresti sostituirlo con un altro modello? Nessun problema! Basta inserire la tua seedphrase nel nuovo wallet per riottenere l'accesso ai fondi. 
+La seedphrase va protetta: è l'unica cosa che garantisce l'accesso ai fondi. Senza di essa, perdi irrimediabilmente l'accesso ai bitcoin e la capacità di gestirli.
 
-Una frase seme può essere trasferita tra portafogli hardware realizzati da diversi produttori. La frase seme di recupero è più importante del dispositivo che la contiene.
-
-Hai perso il tuo portafoglio hardware? O ha smesso di funzionare? O forse vorresti sostituirlo con un altro modello? Nessun problema! Basta inserire la tua frase seed di recupero nel nuovo portafoglio per riottenere l'accesso alle tue risorse.
-
-Proteggi la tua frase seme: è l'unico metodo per riottenere l'accesso alle tue risorse in caso di perdita del portafoglio hardware.
-
-Senza la tua frase seme, perdi irreversibilmente l'accesso alle tue partecipazioni in criptovaluta e la capacità di gestirle.
+ATTENZIONE!
+NON CREARE MAI UNA COPIA DIGITALE (FOTO, MESSAGGIO DI TESTO, EMAIL) DELLA SEEDPHRASE. INOLTRE, NON LEGGERLA MAI AD ALTA VOCE E EVITA ASSOLUTAMENTE DI DIGITARLA SU UN COMPUTER CONNESSO A INTERNET!
 
 
-AVVERTIMENTO!
-NON CREARE MAI UNA COPIA DIGITALE (FOTO, MESSAGGIO DI TESTO, EMAIL) DEL TUO SEME DI RECUPERO. INOLTRE, NON LEGGERE MAI AD ALTA VOSTRA FRASE SEED ED EVITARE DI DIGITARLA SU UN COMPUTER CONNESSO A INTERNET!
+### GESTIONE DEL BACKUP (pagina 14)
 
+Perché ho bisogno di un backup della seedphrase?
 
-GLOSSARIO DEI BITCOIN
+Sei l'unica persona che ha accesso alle parole che compongono il seed, quindi assicurati di crearne un backup. La gestione del backup è semplice e sicura finché rimane offline. I dispositivi elettronici raramente sopravvivono per più di 10 o 20 anni: non sono una buona soluzione per l'archiviazione di risorse a lungo termine. Un backup del seed fornisce una protezione efficace in caso di errori relativi agli aggiornamenti del software e del firmware.
 
-RECOVERY SEED PHRASE è stata utilizzata una chiave privata come backup in caso di guasto del portafoglio hardware
+Assicurati che il backup delle parole non venga mai pubblicato, caricato, allegato o inviato online. Non fotografarlo e non conservarlo sotto forma di contenuto digitale.
 
-### GESTIONE DEL BACKUP (pagnia14)
+##### GESTIONE DEL BACKUP - PREPARAZIONE (pagina16)
 
-Perché ho bisogno di un backup seed di ripristino?
+La generazione del seed avviene sempre offline: non viene mai caricata su Internet dall'hardware wallet, poiché questo tipo di dispositivo è sempre offline, cosa che lo rende molto più sicuro di un telefono cellulare o di un'app per computer.
 
-Sei l'unica persona che ha accesso alla tua frase seme, quindi assicurati di creare un backup. La gestione del backup è semplice e sicura finché rimane offline.
+Nessuno oltre a te dovrebbe accedere alle 12 o 24 parole: nel momento in cui il dispositivo viene avviato, vengono archiviate nella memoria cifrata del wallet. Al momento della generazione quindi devi farti già una copia cartacea del seed, perché dopo non sarai più in grado di vederlo dal wallet.
 
-I dispositivi elettronici raramente sopravvivono per più di 10 o 20 anni: non sono una buona soluzione per l'archiviazione di risorse a lungo termine.
+Un buon metodo per proteggere la seedphrase è creare un backup su supporto metallico, che è in grado di sopravvivere a pericoli come acqua, fuoco, scosse elettriche o degrado fisico nel tempo. Esistono strumenti di backup già pronti da acquistare oppure soluzioni fai-da-te di cui sono disponibili vari tutorial online (per esempio su youtube.com/@Cryptosteel).
 
-Un backup della frase seme di ripristino fornisce una protezione efficace in caso di errori relativi agli aggiornamenti del software e del firmware.
+##### GESTIONE DEL BACKUP - BACKUP METALLICO (pagina18)
 
-Il recupero di una frase seme di ripristino di backup richiede solo pochi minuti.
+La creazione di un backup in metallo del seed garantisce durata e maggiore resistenza ai danni rispetto ad altri metodi di conservazione, per cui è probabilmente il modo migliore in assoluto per proteggere la seedphrase in caso di situazioni impreviste.
 
-Assicurati che il backup della frase seme non venga mai pubblicato, caricato, allegato o inviato online. Non fotografare le tue password e non conservarle sotto forma di contenuto digitale.
+Una soluzione pronta all'uso è Cryptosteel, un dispositivo brevettato, facile da usare ed estremamente durevole. 
+Stampare manualmente una password su una piastra metallica utilizzando punti è una soluzione alternativa ampiamente testata, anche se richiede molto più tempo. Dopo la decifrazione, i punti rappresentano le chiavi private o la seedphrase di recupero.
 
-### GESTIONE DEL BACKUP - PREPARAZIONE (pagina16)
-
-Il tuo portafoglio hardware genera una frase seme offline: non viene mai caricata su Internet dal tuo portafoglio hardware, poiché questo tipo di dispositivo è sempre offline. Questo lo rende molto più sicuro di un telefono cellulare o di un'app per computer.
-
-PREPARAZIONE
-
-Non fotografare mai la tua frase seme!
-
-Ricorda, le foto possono essere viste o accessibili anche a tua insaputa!
-
-GLOSSARIO DEI BITCOIN
-
-RITORNO IN METALLO una copia di backup in metallo permanente della tua frase seme di recupero
-
-Nessuno oltre a te dovrebbe accedere a quella frase seme: nel momento in cui il dispositivo viene avviato, viene archiviato nella memoria crittografata del portafoglio hardware. Dovresti già avere una copia di backup cartacea iniziale.
-
-
-Proteggi la tua frase seme: crea un backup metallico permanente.
-
-La creazione di un backup in metallo richiederà circa 30 minuti.
-
-Questo proteggerà la tua frase seme da pericoli come acqua, fuoco, scosse elettriche o degrado fisico nel tempo.
-
-Acquista uno strumento di backup già pronto o controlla i tutorial online per le soluzioni fai-da-te.
-
-Puoi anche utilizzare i tutorial disponibili su youtube.com/@Cryptosteel.
-
-### GESTIONE DEL BACKUP - RITORNO IN METALLO (pagina18)
-
-La creazione di un backup in metallo della tua frase seme garantisce durata e maggiore resistenza ai danni rispetto ad altri metodi di conservazione.
-
-I backup in metallo sono altamente resistenti a scosse elettriche, fuoco, acqua e degrado fisico nel tempo.
-
-UN BACKUP IN METALLO È IL MODO MIGLIORE PER PROTEGGERE LA TUA FRASE SEED IN CASO DI SITUAZIONI IMPREVISTE.
-
-Cryptosteel è un dispositivo brevettato, facile da usare ed estremamente durevole.
-
-Stampare manualmente una password su una piastra metallica utilizzando punti è una soluzione alternativa. È stato anche ampiamente testato, anche se richiede molto più tempo. Dopo la decifrazione, i punti rappresentano le chiavi private o una frase seme di ripristino.
-
-Se preferisci soluzioni economiche e fai-da-te, puoi acquistare un set di strumenti per incidere, una piastra di metallo e incidere la tua frase seme su di essa. Tuttavia, questa soluzione potrebbe essere meno sicura a causa di materiali di bassa qualità e illeggibilità.
+Se preferisci soluzioni economiche e fai-da-te, puoi acquistare un set di strumenti per incidere e una piastra di metallo, ed incidere la seedphrase su di essa. Tuttavia, questa soluzione potrebbe essere meno sicura a causa di materiali di bassa qualità e illeggibilità.
 
 ### GESTIONE DEL BACKUP - PROVA IL TUO BACKUP
 
-Assicurati che il backup della tua frase seme funzioni prima che sia mai necessario: in giorni, mesi o anni.
+Assicurati che il backup funzioni prima ancora che sia necessario: in giorni, mesi o anni.
 
-PROVA IMMEDIATAMENTE IL TUO BACKUP ANZICHÉ PREMETTERE CHE SIA CORRETTO
+METTI SUBITO ALLA PROVA IL BACKUP ANZICHÉ PRESUPPORRE CHE SIA CORRETTO
 
 Per finalizzare la procedura di backup, assicurati che il seme non ti manchi quando ne hai più bisogno.
 
 IL TEST:
+<UL>
+ <LI>Trasferisci una piccola quantità nella tua nuova frase seme</LI>
+ <LI>Ripristina il dispositivo</LI>
+ <LI>Esegui il processo di recupero</LI>
+</UL>
 
-Trasferisci una piccola quantità nella tua nuova frase seme
-
-Ripristina il dispositivo
-
-Eseguire il processo di recupero
-
-Il test ha esito positivo se puoi accedere alle tue risorse dopo aver eseguito il processo di recupero. Congratulazioni! Il tuo backup è configurato correttamente e ti consentirà di recuperare l'accesso alle tue risorse in futuro, ogni volta che ne avrai bisogno.
+Il test ha esito positivo se puoi accedere ai fondi dopo il processo di recupero. Congratulazioni! Il tuo backup è configurato correttamente e ti consentirà di recuperare l'accesso ai tuoi bitcoin in futuro, ogni volta che ne avrai bisogno.
 
 ATTENZIONE!
+SOLO UN BACKUP TESTATO PUÒ GARANTIRE L'ACCESSO FUTURO AI FONDI. IL RECUPERO DEL WALLET È IMPOSSIBILE SE LA SEED PHRASE NON È CORRETTA.
 
-SOLO UN BACKUP TESTATO GARANTIRÀ L'ACCESSO FUTURO ALLE TUE RISORSE. IL RECUPERO DEL PORTAFOGLIO È IMPOSSIBILE SE LA SEED PHRASE NON È CORRETTA
+### LIGHTNING NETWORK (pagina 22)
 
-### LA RETE DEI FULMINI (pagina 22)
+Il Lightning Network è il secondo layer della rete Bitcoin. Funziona bloccando denaro sulla blockchain di Bitcoin ed emettendo l'importo corrispondente su Lightning. Ciò consente transazioni Bitcoin essenzialmente alla velocità della tua connessione Internet, senza che esse vengano scritte in blockchain.
 
-Il Lightning Network è il secondo livello della rete Bitcoin. I Lightning Network funzionano bloccando denaro sulla blockchain di Bitcoin ed emettendo un importo corrispondente su Lightning. Ciò consente transazioni Bitcoin essenzialmente alla velocità della tua connessione Internet.
+GLOSSARIO DEI BITCOIN: LIGHTNING NETWORK = il secondo layer della rete Bitcoin, utilizzato per transazioni facili e veloci
 
-GLOSSARIO DEI BITCOIN: LIGHTNING NETWORK = il secondo livello della rete Bitcoin, utilizzato per transazioni facili e veloci
+Il Lightning Network stabilisce canali di pagamento diretti tra gli utenti e quindi consente transazioni quasi in tempo reale. Non è necessario confermare ogni trasferimento scrivendolo sulla blockchain. Questo si traduce in commissioni più basse e pagamenti immediati.
+Il Lightning Network è una rete indipendente che facilita l'utilizzo di Bitcoin nella vita di tutti i giorni, grazie a transazioni veloci e a basso costo. È stato integrato in una moltitudine di app. Il loro assortimento è ampio e in continua evoluzione, varia a seconda delle esigenze, delle preferenze e dei nuovi sviluppi tecnologici.
 
-Il Lightning Network stabilisce canali di pagamento diretti tra gli utenti e quindi consente transazioni quasi in tempo reale. Non è necessario confermare ogni trasferimento sulla blockchain nella rete blockchain. Questo si traduce in commissioni più basse e pagamenti immediati.
+### LIGHTNING NETWORK - INSTALLA L'APPLICAZIONE (pagina24)
 
-Il Lightning Network è una rete indipendente che facilita l'utilizzo di Bitcoin nella vita di tutti i giorni, grazie a transazioni veloci ea basso costo su un numero crescente di app.
+Per aiutarti a sperimentare i vantaggi ed esplorare le possibilità di Lightning Network, abbiamo selezionato alcuni hot wallet ("hot" sigifica connessi a Internet, a differenza degli hardware wallet, che si dicono "cold") che possono essere installati sul tuo smartphone. Cryptosteel consiglia due opzioni: Wallet of Satoshi (per principianti) e Breez (sono necessarie alcune conoscenze tecniche).
 
-Il Lightning Network è stato integrato in una moltitudine di app. Il loro assortimento è ampio e in continua evoluzione, variando a seconda delle esigenze, delle preferenze e dei nuovi sviluppi tecnologici.
+Se hai intenzione di effettuare le tue prime transazioni su Lightning, Wallet of Satoshi è la scelta migliore. È un portafoglio custodial che offre facilità d'uso è pronta subito dopo l'installazione. Come tale, è adatto agli utenti principianti.
+Tuttavia, dovresti mirare ad adottare un wallet completamente non-custodial come Breez. In questo caso, ti viene addebitata l'apertura dei canali Lightning e, possedendo il tuo canale, hai un maggiore controllo sui fondi. Se scegli l'app Breez, ti verrà addebitata una piccola commissione (di solito inferiore a $1) per l'apertura del tuo canale.
 
-### LA RETE DEI FULMINI - INSTALLA L'APPLICAZIONE (pagina24)
+Wallet of Satoshi può essere scaricato da walletofsatoshi.com
+Breez può essere scaricato da breez.technology
 
-Per aiutarti a sperimentare i vantaggi ed esplorare le possibilità di Lightning Network, abbiamo selezionato app hot wallet (connesse a Internet) che possono essere installate sul tuo smartphone. Cryptosteel consiglia due opzioni: Wallet of Satoshi (per principianti) e Breez (sono necessarie alcune conoscenze tecniche).
+Ricorda, sia Wallet of Satoshi che Breez sono opzioni valide e testate per Lightning Network.
 
-Se hai intenzione di effettuare le tue prime transazioni su Lightning Network, Wallet of Satoshi è la scelta migliore. È un portafoglio di custodia che offre facilità d'uso; come tale, è consigliato agli utenti principianti. L'app è pronta subito dopo l'installazione.
-Tuttavia, dovresti mirare ad adottare un portafoglio completamente self-custodial come Breez. In questo caso, ti viene addebitato l'apertura dei canali Lightning e, possedendo il tuo canale, hai un maggiore controllo sulle tue risorse. Se scegli l'app Breez, ti verrà addebitata una piccola commissione (di solito inferiore a $ 1) per l'apertura del tuo canale.
+### LA RETE DEI FULMINI - METTERCI FONDI (pagina26)
 
-Il portafoglio di Satoshi può essere scaricato da walletofsatoshi.com
-La brezza può essere scaricato da breez.technology
-
-Ricorda, sia il portafoglio di Satoshi che Breez sono opzioni valide e testate per Lightning Network.
-
-### LA RETE DEI FULMINI - FARE IL PIENO (pagina26)
-
-Si consiglia agli utenti principianti di operare con un importo inferiore per acquisire familiarità con il funzionamento di Lightning Network ed eseguire la prima transazione. Questo richiederà circa 20 minuti del tuo tempo.
-
-Genera il tuo indirizzo di ricezione:
-
-- facendo clic sul pulsante "Ricevi" e scegliendo l'opzione
-
-"Bitcoin On-Chain" nel Portafoglio di Satoshi
-
-- o "Ricevi tramite indirizzo BTC" in Breez.
-
-Copia l'indirizzo sul tuo computer
-
-Inserisci l'indirizzo ricevuto nel tuo portafoglio hardware
-
-Conduci una piccola transazione e attendi che venga confermata sulla blockchain. A seconda delle tariffe che scegli di pagare, questo potrebbe richiedere fino a o più di un'ora.
-
-Le tue risorse alimenteranno l'account dell'app Lightning e ora sarai in grado di condurre
-
-transizioni istantanee
+Si consiglia agli utenti principianti di operare con importi bassi per acquisire familiarità con il funzionamento di Lightning Network e fare le prime transazioni. Questo richiederà circa 20 minuti del tuo tempo.
+<ul>
+ <li>Genera il tuo indirizzo di ricezione:
+  <ul>
+   <li>facendo clic sul pulsante "Ricevi" e scegliendo l'opzione "Bitcoin On-Chain" su Wallet of Satoshi</li>
+   <li>o "Ricevi tramite indirizzo BTC" in Breez.</li>
+  </ul>
+ </li>
+ <li>Copia l'indirizzo sul tuo computer</li>
+ <li>Inserisci l'indirizzo nel tuo hardware wallet</li>
+ <li>Conduci una piccola transazione e attendi che venga confermata sulla blockchain. A seconda delle fee che scegli di pagare, questo potrebbe richiedere fino a un'ora o anche di più.</li>
+ <li>I fondi verranndo caricati sull'account dell'app Lightning e ora sarai in grado di condurre transazioni istantanee</li>
+</ul>
 
 I passaggi precisi richiesti per depositare su un portafoglio Lightning possono variare a seconda dell'app scelta. L'efficacia del Lightning Network si basa sul principio fondamentale del pieno sostegno delle risorse Bitcoin. Depositando le tue risorse nel Lightning Network, il tuo Bitcoin diventa un deposito nel Lightning Network. Il prelievo di fondi dal Lightning Network invia una rispettiva riserva nella rete Bitcoin. Tutti i costi relativi a Lightning Network vengono presentati prima di confermare una transazione.
 
