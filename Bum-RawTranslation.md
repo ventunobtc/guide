@@ -133,7 +133,7 @@ GLOSSARIO DEI BITCOIN: LIGHTNING NETWORK = il secondo layer della rete Bitcoin, 
 Il Lightning Network stabilisce canali di pagamento diretti tra gli utenti e quindi consente transazioni quasi in tempo reale. Non è necessario confermare ogni trasferimento scrivendolo sulla blockchain. Questo si traduce in commissioni più basse e pagamenti immediati.
 Il Lightning Network è una rete indipendente che facilita l'utilizzo di Bitcoin nella vita di tutti i giorni, grazie a transazioni veloci e a basso costo. È stato integrato in una moltitudine di app. Il loro assortimento è ampio e in continua evoluzione, varia a seconda delle esigenze, delle preferenze e dei nuovi sviluppi tecnologici.
 
-### LIGHTNING NETWORK - INSTALLA L'APPLICAZIONE (pagina24)
+### LIGHTNING NETWORK - INSTALLARE L'APPLICAZIONE (pagina24)
 
 Per aiutarti a sperimentare i vantaggi ed esplorare le possibilità di Lightning Network, abbiamo selezionato alcuni hot wallet ("hot" sigifica connessi a Internet, a differenza degli hardware wallet, che si dicono "cold") che possono essere installati sul tuo smartphone. Cryptosteel consiglia due opzioni: Wallet of Satoshi (per principianti) e Breez (sono necessarie alcune conoscenze tecniche).
 
@@ -145,7 +145,7 @@ Breez può essere scaricato da breez.technology
 
 Ricorda, sia Wallet of Satoshi che Breez sono opzioni valide e testate per Lightning Network.
 
-### LA RETE DEI FULMINI - METTERCI FONDI (pagina26)
+### LIGHTNING NETWORK - METTERCI FONDI (pagina26)
 
 Si consiglia agli utenti principianti di operare con importi bassi per acquisire familiarità con il funzionamento di Lightning Network e fare le prime transazioni. Questo richiederà circa 20 minuti del tuo tempo.
 <ul>
@@ -157,51 +157,42 @@ Si consiglia agli utenti principianti di operare con importi bassi per acquisire
  </li>
  <li>Copia l'indirizzo sul tuo computer</li>
  <li>Inserisci l'indirizzo nel tuo hardware wallet</li>
- <li>Conduci una piccola transazione e attendi che venga confermata sulla blockchain. A seconda delle fee che scegli di pagare, questo potrebbe richiedere fino a un'ora o anche di più.</li>
+ <li>Effettua una piccola transazione e attendi che venga confermata sulla blockchain. A seconda delle fee che scegli di pagare, questo potrebbe richiedere fino a un'ora o anche di più.</li>
  <li>I fondi verranndo caricati sull'account dell'app Lightning e ora sarai in grado di condurre transazioni istantanee</li>
 </ul>
 
-I passaggi precisi richiesti per depositare su un portafoglio Lightning possono variare a seconda dell'app scelta. L'efficacia del Lightning Network si basa sul principio fondamentale del pieno sostegno delle risorse Bitcoin. Depositando le tue risorse nel Lightning Network, il tuo Bitcoin diventa un deposito nel Lightning Network. Il prelievo di fondi dal Lightning Network invia una rispettiva riserva nella rete Bitcoin. Tutti i costi relativi a Lightning Network vengono presentati prima di confermare una transazione.
+I passaggi precisi richiesti per depositare su un portafoglio Lightning possono variare a seconda dell'app scelta. L'efficacia del Lightning Network è dovuta al fatto che si basa sul protocollo Bitcoin, i fondi sono garantiti sulla blockchain principale. Depositando fondi su Lightning, i tuoi Bitcoin diventano un deposito nel Lightning Network e, allo stesso modo, togliere fondi da Lightning corrisponde al rispettivo prelievo sulla rete principale. Tutti i costi relativi a Lightning Network vengono presentati prima di confermare una transazione.
 
 ATTENZIONE!
 
 SONO RACCOMANDATI PRELIEVI REGOLARI DALLA RETE LIGHTNING IN QUANTO LA RETE BITCOIN È PIÙ SICURA E PIÙ ADATTA PER L'ARCHIVIAZIONE A LUNGO TERMINE.
 
-### LA RETE DEI FULMINI - PAGA E RICEVI (pagina28)
+### LIGHTNING NETWORK - PAGARE E RICEVERE (pagina28)
 
-Abbiamo salvato il meglio per la fine, così puoi goderti transazioni veloci ea basso costo su Lightning Network. La raccomandazione di seguito ti consentirà non solo di spendere, ma anche di guadagnare Bitcoin.
+Abbiamo salvato il meglio per la fine, così puoi goderti transazioni veloci e a basso costo su Lightning Network. La raccomandazione di seguito ti consentirà non solo di spendere, ma anche di ricevere e guadagnare Bitcoin.
 
-Bitrefill
+<UL>
+<LI>Bitrefill fornisce buoni acquisto istantanei, voucher e carte regalo per molti dei più grandi negozi, rivenditori e servizi online.
+www.bitrefill.com</LI>
 
-Bitrefill fornisce buoni acquisto istantanei, voucher e carte regalo per alcuni dei più grandi negozi, rivenditori e servizi online.
+<LI>THNDR ha sviluppato una serie di videogiochi che ti pagano tramite Lightning per giocarci. Prova Bitcoin Bounce, Bitcoin Bay, Turbo84, Bitcoin Snake, Tetro Tiles o Club Bitcoin: Solitaire, sul tuo smartphone.
+www.thndr.games</LI>
 
-www.bitrefill.com
+<LI>ShopinBit offre oltre 800.000 prodotti che puoi acquistare tramite Lightning, inclusi telefoni cellulari, laptop, orologi, videogiochi e altro ancora.
+shopinbit.com</LI>
 
-THNDR ha sviluppato una serie di videogiochi che ti pagano tramite Lightning per giocarci. Prova Bitcoin Bounce, Bitcoin Bay, Turbo84, Bitcoin Snake, Tetro Tiles o Club Bitcoin: Solitaire, sul tuo smartphone.
-
-www.thndr.games
-
-ShopinBit offre oltre 800.000 prodotti che puoi acquistare tramite Lightning, inclusi telefoni cellulari, laptop, orologi, videogiochi e altro ancora.
-
-shopinbit.com
-
-Nostris è il futuro dei social media, uno standard aperto per la pubblicazione sul web resistente alla censura e decentralizzata a livello globale.
-
-nostr.how
+<LI>Nostr è il futuro dei social media, un protocollo aperto, decentralizzato e resistente alla censura per scrivere sul web 
+nostr.how</LI>
+</UL>
 
 ### Dato che sai come far funzionare Bitcoin... ORA SEI UN BITCOINER! (pagina30)
 
+### Ringraziamenti
+
+Un ringraziamento specale a Mutant LetterPress, Mariusz Mamcarz, Vlad Costea, Gracjan Pietras, JesterHodl.com, Joko e btc21.de come autori originari e alla community italiana "Ventuno" (ventuno.space) per la traduzione.
+
+Per incoraggiare ulteriori traduzioni, questa pubblicazione è disponibile sotto la licenza CC BY 3.0. Trovi la versione editabile digitale su github.com/cryptosteel. Fai la tua parte per diffondere il verbo!
+
 ### Disclaimer (pagina32)
 
-Questo libro open source intitolato "Bitcoin User Manual" (di seguito denominato "The Book) è progettato per fornire informazioni generali sull'argomento che è bitcoin e criptovalute. L'intesa qui è che l'autore(i), i contributori, i loro le entità affiliate e qualsiasi fornitore di servizi interno o di terze parti (collettivamente indicati come le Parti) non forniscono consulenza o servizi legali, finanziari, di investimento o di qualsiasi altra natura professionale Tutte le interpretazioni, le dichiarazioni o le affermazioni contenute nel Libro sono esclusivamente quelli degli autori e dei contributori e non rappresentano o riflettono necessariamente le opinioni delle Parti.Le Parti declinano espressamente qualsiasi dichiarazione o garanzia, espressa o implicita, incluse, senza limitazioni, garanzie di idoneità per uno scopo particolare, commerciabilità e non violazione. Il Libro è fornito esclusivamente a scopo educativo e informativo. Le informazioni contenute nel presente documento non costituiscono un'offerta, sollecitazione, raccomandazione, approvazione o consiglio per l'acquisto, la vendita o la detenzione di bitcoin, altre criptovalute o qualsiasi titoli o altri strumenti finanziari negli Stati Uniti o in qualsiasi altra giurisdizione. Tali informazioni, se interpretate come sollecitazione o offerta, sono illegali e non sono volute dalle Parti. Nulla in The Book deve essere interpretato come una consulenza legale, fiscale, di investimento, finanziaria o qualsiasi altra forma di consulenza professionale Gli autori e coloro che contribuiscono a The Book non sono consulenti di investimento certificati. Eventuali performance passate, dati storici, aneddoti o esempi presentati nel Libro non devono essere interpretati come indicativi o una promessa di risultati futuri. L'autore(i) e le Parti non forniscono consulenza legale, fiscale, finanziaria o di investimento personalizzata tramite The Book. Le informazioni fornite non sono intese come unica base per eventuali decisioni di investimento, né devono essere interpretate come consulenza progettata per soddisfare le esigenze specifiche dell'individuo o dell'entità. L'investimento in bitcoin e altre criptovalute comporta un rischio intrinseco, incluso il rischio di perdita dell'intero investimento. Le Parti non dichiarano, garantiscono o implicano che i servizi oi metodi contenuti nel Libro impediranno al lettore di subire perdite negli investimenti. Si consiglia vivamente al lettore di chiedere il parere di un consulente professionale appropriato prima di prendere qualsiasi decisione di investimento. Le Parti non si assumono alcuna responsabilità per errori, omissioni o interpretazioni contrarie dell'oggetto del presente documento e non saranno responsabili per eventuali danni diretti, indiretti, consequenziali, speciali, esemplari o di altro tipo che ne derivino. Questa esclusione di responsabilità è regolata e interpretata in conformità con le leggi della giurisdizione da cui si accede al Libro, indipendentemente da qualsiasi conflitto di principi di legge. Qualsiasi controversia derivante da o correlata al tuo utilizzo del Libro sarà giudicata nel tribunale statale o federale appropriato in detta giurisdizione e tu acconsenti a tale giurisdizione. Accedendo o utilizzando The Book, riconosci e accetti di aver letto, compreso e accettato questi termini e condizioni. Se non sei d'accordo con questi termini e condizioni, ti consigliamo di non leggere o utilizzare The Book. L'utilizzo di The Book, liberamente e senza alcuna forma di compenso, costituisce un accordo a questi termini
-
-
-
-
-
-
-
-
-
-
-
+Questo libro open source intitolato "Bitcoin User Manual" (di seguito denominato semplicemente "il libro") è progettato per fornire informazioni generali sull'argomento bitcoin. L'intesa qui è che gli autori, i contributori, le entità loro affiliate e qualsiasi fornitore di servizi interno o di terze parti (collettivamente indicati come le Parti) non forniscono consulenza o servizi legali, finanziari, di investimento o di qualsiasi altra natura professionale. Tutte le interpretazioni, le dichiarazioni o le affermazioni contenute nel Libro sono esclusivamente quelle degli autori e dei contributori e non rappresentano o riflettono necessariamente le opinioni delle Parti. Le Parti declinano espressamente qualsiasi dichiarazione o garanzia, espressa o implicita, incluse, senza limitazioni, garanzie di idoneità per uno scopo particolare, commerciabilità e non violazione. Il Libro è fornito esclusivamente a scopo educativo e informativo. Le informazioni contenute nel presente documento non costituiscono un'offerta, sollecitazione, raccomandazione, approvazione o consiglio per l'acquisto, la vendita o la detenzione di bitcoin, altre criptovalute o qualsiasi titolo o altri strumenti finanziari negli Stati Uniti, in Italia o in qualsiasi altra giurisdizione. Tali informazioni, se interpretate come sollecitazione o offerta, sono illegali e non sono volute dalle Parti. Nulla nel libro deve essere interpretato come una consulenza legale, fiscale, di investimento, finanziaria o in genereale come altra forma di consulenza professionale. Gli autori e coloro che hanno contribuito al libro non sono consulenti di investimento certificati. Eventuali performance passate, dati storici, aneddoti o esempi presentati nel Libro non devono essere interpretati come indicativi o una promessa di risultati futuri. Gli autori e le Parti non forniscono consulenza legale, fiscale, finanziaria o di investimento personalizzata tramite questo libro. Le informazioni fornite non sono intese come unica base per eventuali decisioni di investimento, né devono essere interpretate come consulenza progettata per soddisfare le esigenze specifiche dell'individuo o dell'entità. L'investimento in bitcoin e altre criptovalute comporta un rischio intrinseco, incluso il rischio di perdita dell'intero investimento. Le Parti non dichiarano, garantiscono o implicano che i servizi oi metodi contenuti nel Libro impediranno al lettore di subire perdite negli investimenti. Si consiglia vivamente al lettore di chiedere il parere di un consulente professionale appropriato prima di prendere qualsiasi decisione di investimento. Le Parti non si assumono alcuna responsabilità per errori, omissioni o interpretazioni contrarie dell'oggetto del presente documento e non saranno responsabili per eventuali danni diretti, indiretti, consequenziali, speciali, esemplari o di altro tipo che ne derivino. Questa esclusione di responsabilità è regolata e interpretata in conformità con le leggi della giurisdizione da cui si accede al Libro, indipendentemente da qualsiasi conflitto di principi di legge. Qualsiasi controversia derivante da o correlata al tuo utilizzo del Libro sarà giudicata nel tribunale statale o federale appropriato in detta giurisdizione e tu acconsenti a tale giurisdizione. Leggendo o utilizzando il libro, riconosci e accetti di aver letto, compreso e accettato questi termini e condizioni. Se non sei d'accordo con questi termini e condizioni, ti consigliamo di non leggere o utilizzare il libro. L'utilizzo del libro, liberamente e senza alcuna forma di compenso, costituisce un accordo a questi termini.
